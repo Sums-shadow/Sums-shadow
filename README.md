@@ -1,5 +1,5 @@
 
-![alt-text](https://github.com/Sums-shadow/inner_sums/blob/master/rootShadow.PNG?raw=true)
+![alt-text](https://github.com/Sums-shadow/Sums-shadow/blob/master/rootShadow.PNG?raw=true)
 <!--
 ### Hi there 👋
 **Sums-shadow/Sums-shadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

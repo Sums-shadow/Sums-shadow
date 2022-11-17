@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Visitor count:
 <img align="left" src = "https://profile-counter.glitch.me/Sums-shadow/count.svg" alt ="Loading">

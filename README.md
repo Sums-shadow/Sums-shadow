@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Visitor count:
+### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/Sums-shadow/count.svg" alt ="Loading">

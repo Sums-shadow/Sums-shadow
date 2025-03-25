@@ -1,6 +1,6 @@
 ![👋 Hi, my name is Ezechiel Ngbowa](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-![Profile views](https://komarev.com/ghpvc/?username=ezechielngbowa&label=Profile%20views&color=0e75b6&style=flat)
+ 
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Full-Stack Developer - Mobile Developer - 
+### 🚀 Full-Stack Developer - Mobile Developer - Pentester
 
 I'm a software developer with a strong passion for building scalable, robust, and elegant web and mobile applications. I love diving into both front-end and back-end challenges, as well as exploring DevOps and system-level tools.
 
@@ -65,8 +65,9 @@ I'm a software developer with a strong passion for building scalable, robust, an
 ### 📊 GitHub Stats
 
 <p align="left">
-![Github stats](https://github-readme-stats.vercel.app/api?username=Sums-shadow&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true)
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezechielngbowa&layout=compact&langs_count=6&theme=default" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sums-shdow&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sums-shadow&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
+
 </p>
 
 ---

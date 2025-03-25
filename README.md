@@ -1,5 +1,5 @@
  
- ![👋 Hi there ](https://github.com/Sums-shadow/Sums-shadow/blob/main/tux.png)
+ ![👋 Hi there ](https://github.com/Sums-shadow/Sums-shadow/blob/main/tux2.png)
  
 
 <div id="toc">

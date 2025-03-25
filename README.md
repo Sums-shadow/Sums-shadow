@@ -65,7 +65,7 @@ I'm a software developer with a strong passion for building scalable, robust, an
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ezechielngbowa&show_icons=true&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&include_all_commits=true&line_height=25" alt="GitHub Stats" />
+![Github stats](https://github-readme-stats.vercel.app/api?username=Sums-shadow&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true)
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezechielngbowa&layout=compact&langs_count=6&theme=default" alt="Top Languages" />
 </p>
 

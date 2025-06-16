@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Full-Stack Developer - Mobile Developer - Pentester
+### 🚀 Software engineer - Network engineer - Mobile & Web Developer - Pentester
 
 I'm a software developer with a strong passion for building scalable, robust, and elegant web and mobile applications. I love diving into both front-end and back-end challenges, as well as exploring DevOps and system-level tools.
 

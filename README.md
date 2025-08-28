@@ -33,7 +33,7 @@ I'm a software developer with a strong passion for building scalable, robust, an
 
 ### ⚡ Rapid Fire
 
-- 💼 Currently working on: **Flutcn and Logifret**
+- 💼 Currently working on: **Wabot and Flutcn**
 - 💬 Ask me about: **Flutter, Node.js, Next.js, Angular, Docker**
 - 🌐 Portfolio: **[https://ezechielngbowa.dev](https://ezechielsums.dev)**  
 - ✍️ Blog: **[https://medium.com/@ezechielsums](https://medium.com/@ezechielsums)**  
